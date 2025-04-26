@@ -7,7 +7,7 @@ const projects = [
   {
     title: 'Mabelle Vitirne',
     description: 'Site de vitirne como forma de divulgação para venda de brownies',
-    image: 'mabelle.png',
+    image: 'https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     tags: ['Html', 'Css', 'Js'],
     sourceLink: 'https://github.com/Nathan-Paranhos/Mabelle',
     demoLink: 'https://nathan-paranhos.github.io/Mabelle/'
