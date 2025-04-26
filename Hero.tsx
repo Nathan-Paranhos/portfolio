@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { BrainCircuit as Circuit, Github, Linkedin, Mail } from 'lucide-react';
 import { fadeIn, glowVariant } from './animation';
 
-import profileImage from './bal.png';
+import profileImage from './Bal.png';
 
 const Hero = () => {
   return (
