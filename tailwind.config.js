@@ -7,7 +7,7 @@ export default {
         background: '#0a0a0a',
         'background-light': '#141414',
         primary: '#5a139c',
-        secondary: '#000000',
+        secondary: '#00FFFF',
         accent: '#501f7d',
         success: '#23ba60',
         warning: '#ffc107',
