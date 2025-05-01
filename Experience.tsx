@@ -36,6 +36,17 @@ const experienceItems = [
       'Automação de mensagem usando pywhatkit',
       'Desenvolvimento de bots para automações de processos'
     ]
+  },
+  {
+    period: 'Abr. 2025',
+    title: 'Client Soft. Support',
+    company: 'Fagron tech',
+    responsibilities: [
+      'Implantação de sistemas',
+      'Configuração de ambiente',
+      'Monday',
+      'Banco de dados'
+    ]
   }
 ];
 
