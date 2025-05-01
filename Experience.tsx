@@ -38,7 +38,7 @@ const experienceItems = [
     ]
   },
   {
-    period: 'Abr. 2025',
+    period: 'Atual',
     title: 'Client Soft. Support',
     company: 'Fagron tech',
     responsibilities: [
